@@ -50,7 +50,9 @@ class VmztGenUsernames:
             requests.post(f"{self.webhooks["fourLetters"]}", json={"content": f"<:vermelho_laco:1301760407584772117> ・ **Username available:** `{username}` | Found there: <t:{int(time.time())}:R>"})
         else:
           webhook = self.webhooks["wasntThisTime"] 
-          if webhook == "" | webhook == "Webhook to send usernames NOT AVAILABLE (NOT REQUIRED)":
+          if webhook == "":
+             pass
+          elif webhook == "Webhook to send usernames NOT AVAILABLE (NOT REQUIRED)":
              pass
           else:
             requests.post(f"{webhook}", json={"content": f"<:raiva:1258822537542893698> ・ **It wasn't this time:** `{username}` | Found there: <t:{int(time.time())}:R>"})
