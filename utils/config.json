@@ -1,0 +1,9 @@
+{
+  "token": "Your discord account token",
+  "webhooks": {
+    "twoLetters": "Webhook to send usernames TWO LETTERS",
+    "threeLetters": "Webhook to send usernames THREE LETTERS",
+    "fourLetters": "Webhook to send usernames FOUR LETTERS",
+    "wasntThisTime": "Webhook to send usernames NOT AVAILABLE (NOT REQUIRED)"
+  }
+}
