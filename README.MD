@@ -2,9 +2,7 @@
 This tool is used to generate Discord usernames super fast.
 
 ## 📹 Preview
-<video controls autoplay>  
-  <source src="images/image.mp4" type="video/mp4">
-</video>
+- [Click to see preview](https://streamable.com/tsnzjt)
 
 ## 🔥 Features
 - HTTP / HTTPS Proxy Support 
@@ -16,8 +14,17 @@ This tool is used to generate Discord usernames super fast.
 3. Open `main.py` and enjoy.
 
 ## ⚠️ Disclaimer
-This github repo is for EDUCATIONAL PURPOSES ONLY. I'm NOT under any responsibility if a problem occurs.
+- This github repo is for EDUCATIONAL PURPOSES ONLY. I'm NOT under any responsibility if a problem occurs.
 
 ## 🆘 Issues
 
 - If you have any error do not forget report it in: [issues](https://github.com/edudevvv/vmzt-usernames/issues/new) 
+
+## 🩷 Credits
+Creators:
+- [@edudevvv](https://github.com/edudevvv) 
+- [@murilolol](https://github.com/murilolol)
+
+Support Servers:
+- [vmzt](https://discord.gg/painel) 
+- [awsxu](https://discord.gg/painel)
